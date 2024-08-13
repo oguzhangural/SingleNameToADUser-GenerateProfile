@@ -1,4 +1,4 @@
-# Windows Active Directory'de yalnızca kullanıcının "İsim & Soyisim" ve "Ülke" bilgilerini girerek nasıl kullanıcı profili oluşturabileceğinizi anlatmaktadır.
+# Windows Active Directory'de PowerShell kullanarak yalnızca "İsim & Soyisim" ve "Ülke" bilgilerini girerek nasıl kullanıcı profili oluşturabileceğinizi adım adım açıklamaktadır. Bu yöntem sayesinde, temel kullanıcı bilgilerini girerek hızlı ve otomatik bir şekilde Active Directory'de yeni kullanıcı hesapları oluşturabilirsiniz.
 
 ![Print](https://github.com/user-attachments/assets/c6b49d1c-9740-460a-9b06-2024f1a1379e)
 ![Print-01](https://github.com/user-attachments/assets/aca2919f-d404-4648-bbf0-ba57bbd5d4b8)
